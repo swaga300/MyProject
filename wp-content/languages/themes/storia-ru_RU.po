@@ -1,0 +1,228 @@
+# Translation of Themes - Storia in Russian
+# This file is distributed under the same license as the Themes - Storia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-07 18:09:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Storia\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "A visual story theme."
+msgstr "Тема визуального рассказа."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Storia"
+msgstr "Storia"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Красный"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Розовый"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Зелёный"
+
+#: styles/cream.json
+msgctxt "Style variation name"
+msgid "Cream"
+msgstr "Кремовый"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Синий"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Duotone name"
+msgid "Default filter"
+msgstr "Фильтр по умолчанию"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json styles/blue.json styles/cream.json styles/green.json
+#: styles/pink.json styles/red.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "Двойной большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Список записей"
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr "Скрытые комментарии"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "Скрытая 404"
+
+#: patterns/gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr "Галерея"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Подвал по умолчанию"
+
+#: patterns/hidden-404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поискать?"
+
+#: patterns/hidden-404.php:9
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: patterns/gallery.php:68
+msgid "The fearsomeness of the wood had been a good bit rubbed off for me by Master Case’s banjo-strings and graven images, yet I thought it was a dreary walk, and guessed, when the disciples went up there, they must be badly scared. The light of the lantern, striking among all these trunks and forked branches and twisted rope-ends of lianas, made the whole place, or all that you could see of it, a kind of a puzzle of turning shadows. They came to meet you, solid and quick like giants, and then span off and vanished; they hove up over your head like clubs, and flew away into the night like birds. The floor of the bush glimmered with dead wood, the way the match-box used to shine after you had struck a lucifer. Big, cold drops fell on me from the branches overhead like sweat. There was no wind to mention; only a little icy breath of a land-breeze that stirred nothing; and the harps were silent."
+msgstr "Струны банджо Мастера Кейса и резные изображения изрядно смягчили страшный лес, но я подумал, что это была утомительная прогулка, и догадался, что когда ученики поднялись туда, они, должно быть, сильно испугались. Свет фонаря, падавший среди всех этих стволов, разветвленных ветвей и скрученных концов лиан, превращал все это место или все, что можно было видеть, в своего рода мозаику из сменяющихся теней. Они пришли вам навстречу, твердые и быстрые, как гиганты, а затем разошлись и исчезли; они парят над твоей головой, как дубины, и улетают в ночь, как птицы. Пол куста блестел мертвой древесиной, как блестел спичечный коробок после удара по люциферу. Крупные холодные капли падали на меня с ветвей над головой, как пот. Не было никакого ветра, чтобы упомянуть; только легкое ледяное дуновение сухопутного бриза, которое ничего не шевелило; и арфы молчали."
+
+#: patterns/gallery.php:64
+msgid "As long as I was on the path I walked hard, but when I came to the black beach I had to run. For the tide was now nearly flowed; and to get through with my powder dry between the surf and the steep hill, took all the quickness I possessed. As it was, even, the wash caught me to the knees, and I came near falling on a stone. All this time the hurry I was in, and the free air and smell of the sea, kept my spirits lively; but when I was once in the bush and began to climb the path I took it easier."
+msgstr "Пока я был на пути, я шел тяжело, но когда я пришел к черному пляжу, мне пришлось бежать. Ибо прилив почти прекратился; и чтобы пройти с моим сухим порошком между прибоем и крутым холмом, потребовалась вся быстрота, которой я обладал. Как бы то ни было, вода захлестнула меня по колени, и я чуть не упал на камень. Все это время спешка, в которой я был, свежий воздух и запах моря поддерживали мой дух; но когда я однажды оказался в кустах и начал карабкаться по тропинке, мне стало легче."
+
+#: patterns/gallery.php:60
+msgid "5am, the Beach"
+msgstr "5 утра, пляж"
+
+#: patterns/gallery.php:56
+msgid "Vol.3"
+msgstr "Том 3"
+
+#: patterns/footer.php:25
+msgid "Designed with %1$s"
+msgstr "Разработано совместно с %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:23
+msgid "https://wordpress.org"
+msgstr "https://ru.wordpress.org"
+
+#: patterns/footer.php:15
+msgid "Email"
+msgstr "Email"
+
+#: patterns/footer.php:15
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/footer.php:15
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.com/theme/storia/"
+msgstr "https://wordpress.com/theme/storia/"
